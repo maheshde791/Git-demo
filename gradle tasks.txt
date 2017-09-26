@@ -1,4 +1,4 @@
-Android tasks
+1Android tasks
 -------------
 androidDependencies - Displays the Android dependencies of the project.
 signingReport - Displays the signing info for each variant.
